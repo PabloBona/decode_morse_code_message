@@ -8,8 +8,6 @@ class MorseDecoder
     '--..' => 'Z', ' ' => ' '
   }.freeze
 
-  # Create a method to decode a Morse code character, takes a string, and return
-  # the corresponding character in uppercase (e.g. decode_char(".-") returns "A").
   def decode_char(char)
     MORSE_CODE[char]
   end
