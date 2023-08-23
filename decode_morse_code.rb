@@ -1,5 +1,5 @@
 class MorseDecoder
-  MORSE_CODE = { # Capital letters beacuse it's a constant
+  MORSE_CODE = {
     '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D', '.' => 'E',
     '..-.' => 'F', '--.' => 'G', '....' => 'H', '..' => 'I', '.---' => 'J',
     '-.-' => 'K', '.-..' => 'L', '--' => 'M', '-.' => 'N', '---' => 'O',
