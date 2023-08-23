@@ -47,7 +47,6 @@ To begin using the Morse Code Decoder, follow these steps:
    ```
 
 <a name="readme-top"></a>
-Follow these steps to understand and work on the project:
 
 
 ### Tech Stack <a name="tech-stack"></a>
