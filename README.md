@@ -12,7 +12,6 @@ This project involves creating a Ruby script to decode Morse code messages into 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [❓ FAQ](#faq)
